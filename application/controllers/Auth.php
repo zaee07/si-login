@@ -114,8 +114,8 @@ class Auth extends CI_Controller {
         $config = array();
         $config['protocol']     = "smtp"; // you can use 'mail' instead of 'sendmail or smtp'
         $config['smtp_host']    = "ssl://smtp.googlemail.com";// you can use 'smtp.googlemail.com' or 'smtp.gmail.com' instead of 'ssl://smtp.googlemail.com'
-        $config['smtp_user']    = "sublik85@gmail.com"; // client email gmail id
-        $config['smtp_pass']    = "grpf tean akrt xual "; // client password
+        $config['smtp_user']    = "nyenye@gmail.com"; // client email gmail id
+        $config['smtp_pass']    = "gr"; // client password
         $config['smtp_port']    =  465;
         // $config['smtp_crypto']  = 'ssl';
         // $config['smtp_timeout'] = "";
